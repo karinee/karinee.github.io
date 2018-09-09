@@ -1,6 +1,6 @@
 (function (window) {
   'use strict';
-
+  
   function Even(config) {
     this.config = config;
   }
